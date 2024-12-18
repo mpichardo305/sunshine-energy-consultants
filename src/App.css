@@ -33,7 +33,6 @@ html {
   /* Ensures the navbar is above other content */
   background: #A54D21;
   /* Background color for visibility */
-  padding: 10px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -42,6 +41,7 @@ html {
 .navbar-container {
   display: flex;
   justify-content: space-between;
+  padding: 10px 20px;
   /* Creates space between left and right divs */
   align-items: center;
   max-width: 1200px;
