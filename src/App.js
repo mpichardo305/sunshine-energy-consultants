@@ -19,15 +19,14 @@ export default function SolarLanding() {
     Sunshine Energy <br /> Consultants
   </span>
             </div>
-
-            {/* Call Button */}
+              {/* Call Button */}
+           {/* Call Button */}
             <a 
               href="tel:352-340-0931"
-              className="inline-flex items-center px-4 py-2 bg-white text-emerald-600 rounded-full font-medium hover:bg-opacity-90 transition-colors"
+              className="inline-flex items-center px-4 py-2 bg-white text-emerald-600 border-2 border-emerald-600 rounded-full font-medium hover:bg-orange-600 hover:text-white hover:border-orange-600 transition-colors duration-300"
             >
-              <Phone className="w-4 h-4 mr-2" />
-              <span className="hidden sm:block">Call us today: </span>
-              <span>352-340-0931</span>
+              📞 <span className="hidden sm:block ml-2">Call us today: </span>
+              <span className="ml-2">(352) 340-0931</span>
             </a>
           </div>
         </div>
