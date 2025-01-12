@@ -23,11 +23,11 @@ export default function Navbar() {
           </Link>
           {/* Call Button */}
           <a
-            href="tel:352-340-0931"
+            href="tel:786-651-7108"
             className="inline-flex items-center px-4 py-2 bg-white text-emerald-600 border-2 border-emerald-600 rounded-full font-medium hover:bg-orange-600 hover:text-white hover:border-orange-600 transition-colors duration-300"
           >
             📞 <span className="hidden sm:block ml-2">Call us today: </span>
-            <span className="ml-2">(352) 340-0931</span>
+            <span className="ml-2">(786) 651-7108</span>
           </a>
         </div>
       </div>
