@@ -10,7 +10,7 @@ export default function WorthIt() {
       <main className="py-8">
 
       <article className="max-w-2xl mx-auto p-8 text-gray-700 text-lg leading-relaxed">
-      <h1 className="text-3xl font-bold mb-4">Is Solar Worth It?</h1>
+      <h1 className="text-3xl font-bold mb-4">Are solar panels worth it?</h1>
         <p className="mb-4">
 If you are here, it means you are taking the right and responsible first step of learning about other homeowners experiences with going solar. Many homeowners start their search by asking themselves this question... Is Solar Worth it? The right answer is, it depends on your situation and your utility bill. But I can guarantee you that there are some homeowners that are gettign deals, and you should too. 
 </p>
