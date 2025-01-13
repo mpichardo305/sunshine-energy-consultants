@@ -1,6 +1,7 @@
 // src/WorthIt.tsx
 import React from "react";
 import Layout from "./Layout";
+import { Download} from 'lucide-react';
 
 export default function WorthIt() {
   return (
@@ -11,6 +12,7 @@ export default function WorthIt() {
 
       <article className="max-w-2xl mx-auto p-8 text-gray-700 text-lg leading-relaxed">
       <h1 className="text-3xl font-bold mb-4">Are solar panels worth it?</h1>
+      <h2 className="text-1xl mb-4">Last updated Jan. 12, 2025</h2>
         <p className="mb-4">
 If you are here, it means you are taking the right and responsible first step of learning about other homeowners experiences with going solar. Many homeowners start their search by asking themselves this question... Are solar panels worth it? The right answer is, it depends on your situation and your utility bill. But I can guarantee you that there are some homeowners that are gettign deals, and you should too. 
 </p>
@@ -20,6 +22,16 @@ Central Florida is growing at an incredible pace, particularly around major hubs
 <p className="mb-4">
 Additionally, solar panels can increase property values and reduce long-term expenses. They’re environmentally friendly, too, cutting down on carbon emissions and the region’s dependence on fossil fuels. If you have concerns about your current utility bill—whether it’s Duke Energy or another provider—we can help analyze your usage to see if you’re getting a fair deal. Oftentimes, going solar not only saves money but ensures you’re paying for the energy you actually use, not inflated prices for the same sunlight.
         </p>
+        <p className="mb-4">
+We spent over 10 hours collecting permit data and interviewing people who work in the industry to put together the best guide on the internet for homeowners in Central Florida area.
+        </p>
+        <a 
+          href="https://drive.google.com/uc?export=download&id=1QWjkvwMJ2UHqE163FpYEeLuuRYxglftS"
+          className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold py-4 px-8 rounded-lg shadow-lg transition-all"
+        >
+        <Download className="w-2 h-2" />
+        Download Your FREE Solar Guide
+        </a>
       </article>
       </main>
     </Layout>

@@ -34,7 +34,7 @@ export default function SolarLanding() {
                 to="/WorthIt"
                 className="inline-block mt-6 bg-emerald-600 text-white py-3 px-5 rounded-lg font-medium hover:bg-emerald-700 transition-colors"
               >
-                Is Solar Worth It? Learn More
+                Are solar panels worth it? Learn More
               </Link>
             </div>
           </header>
@@ -106,7 +106,7 @@ export default function SolarLanding() {
           <section className="py-16 bg-emerald-50 -mx-4 sm:-mx-6 lg:-mx-8 px-4 sm:px-6 lg:px-8">
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                Helping 100 Families Go Solar in Central Florida
+                We have helped over 100 Families Go Solar in Florida
               </h2>
               <p className="text-xl text-gray-600 mb-12">
                 Join the movement toward energy independence. Start saving with clean solar power.
@@ -117,7 +117,7 @@ export default function SolarLanding() {
                   What You'll Learn in Our Free Solar Guide
                 </h3>
                 <p className="text-gray-600 mb-8">
-                  Discover how to select the best solar panels, understand financing options, and maximize your energy savings.
+                  Discover the math and photovoltaic vocabulary, understand financing options, and maximize your energy savings.
                 </p>
                 <a 
                   href="https://drive.google.com/uc?export=download&id=1QWjkvwMJ2UHqE163FpYEeLuuRYxglftS"
