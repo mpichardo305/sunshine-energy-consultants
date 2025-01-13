@@ -31,7 +31,7 @@ export default function SolarLanding() {
                 Download Your FREE Solar Guide
               </button> */}
               <Link
-                to="/WorthIt"
+                to="/are-solar-panels-worth-it"
                 className="inline-block mt-6 bg-emerald-600 text-white py-3 px-5 rounded-lg font-medium hover:bg-emerald-700 transition-colors"
               >
                 Are solar panels worth it? Learn More

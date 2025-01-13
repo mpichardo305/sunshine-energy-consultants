@@ -29,7 +29,7 @@ We spent over 10 hours collecting permit data and interviewing people who work i
           href="https://drive.google.com/uc?export=download&id=1QWjkvwMJ2UHqE163FpYEeLuuRYxglftS"
           className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-semibold py-4 px-8 rounded-lg shadow-lg transition-all"
         >
-        <Download className="w-2 h-2" />
+        <Download className="w-5 h-5" />
         Download Your FREE Solar Guide
         </a>
       </article>

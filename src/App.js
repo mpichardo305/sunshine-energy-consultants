@@ -8,7 +8,7 @@ export default function App() {
     <Router>
       <Routes>
         <Route path="/" element={<SolarLanding />} />
-        <Route path="/WorthIt" element={<WorthIt />} />
+        <Route path="/are-solar-panels-worth-it" element={<WorthIt />} />
       </Routes>
     </Router>
   );
